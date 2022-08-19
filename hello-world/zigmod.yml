@@ -1,0 +1,6 @@
+id: e6noiqie8yse16sqqp5yuf46qshlinfrbwv5g75wd0t87hku
+name: hello-world
+license: MIT
+description: Hello world
+root_dependencies:
+  - src: git https://github.com/Sobeston/table-helper
