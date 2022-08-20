@@ -1,0 +1,5 @@
+id: eve4gv764y6nj5t7rsyx8xv31yxds501js4tjzv7aav5qn9v
+name: zaheui
+license: MIT
+description: Aheui interpreter in zig
+root_dependencies:
